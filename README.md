@@ -1,1 +1,1 @@
-# record-player-simulator
+`mvn javafx:run`
